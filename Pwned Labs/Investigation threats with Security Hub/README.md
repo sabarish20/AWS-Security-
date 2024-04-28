@@ -1,3 +1,5 @@
+### Lab Link: [Security Hub](https://pwnedlabs.io/labs/reveal-hidden-risks-with-aws-security-hub)
+
 # Scenario 
 On your first day as a security analyst at Huge Logistics, you activate AWS Security Hub. The next day you are met with a detailed dashboard, revealing a myriad of potential risks within the AWS infrastructure. Use this service to identify risks and help improve their security posture!
 
